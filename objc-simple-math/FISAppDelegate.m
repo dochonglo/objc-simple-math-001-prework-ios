@@ -4,6 +4,20 @@
 
 @implementation FISAppDelegate
 
+// Objectives:
+// 1. Define and print an NSInteger variable.
+// 2. Use an NSInteger variable to capture and print the result of several simple calculations.
+// 3. Use an NSInteger variable to capture and print the result of using other variables in calculations.
+// 4. Define an NSUInteger and produce the Xcode error that appears when an unsigned integer is assigned a negative value.
+// 5. Use BOOLs to capture and print value comparisons.
+// 6. Use parentheses to override operation precedence and see how it affects the result of a calculation.
+// 7. Use CGFloats to hold decimal values.
+// 8. Capture the result of an integer-only division into a CGFloat variable to see how the result is truncated.
+
+// Advanced:
+// 1. Use a CGFloat variable to print mathematical values stored in the math.h C library.
+// 2. Use a CGFloat variable to capture and print the result of calling a few mathematical C-functions from the math.h C library.
+
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
     
